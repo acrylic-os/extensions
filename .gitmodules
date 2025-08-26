@@ -1,0 +1,3 @@
+[submodule "themes/acrylic-wme"]
+	path = themes/acrylic-wme
+	url = https://github.com/acrylic-os/acrylic-wme
